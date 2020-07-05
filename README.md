@@ -2,9 +2,14 @@
 
 This repository is meant to be copied in a shared Google Drive directory so that its users can share save game files.
 
+## Setup
+
+- Copy this repository in a Google Drive directory named "cloud_save_games"
+	- Alternatively check in the scripts to ensure variables for paths are properly set up
+- In each script, ensure the directory paths are properly updated
+
 ## Usage
 
-- Copy this repository in a Google Drive directory
 - Go in the subfolder for the game of your choice, right-click the file "setup_cloud_save.bat" and choose "Run as Administrator".
 - Follow the instructions the script directs.
 - Upon successful completion, open the game which should include the shared saves.

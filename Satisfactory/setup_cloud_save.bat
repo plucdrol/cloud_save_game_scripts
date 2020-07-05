@@ -10,7 +10,7 @@ set OLD_TIMESTAMP=old
 
 set LOCAL_SAVES_DIR=%LOCAL_DIR%\%SAVES_PARENT_DIR_NAME%
 
-set CLOUD_DIR=%USERPROFILE%\Google Drive\hackazor_cloud_saverino\Satisfactory
+set CLOUD_DIR=%USERPROFILE%\Google Drive\cloud_save_games\Satisfactory
 
 set CLOUD_SAVES_DIR=%CLOUD_DIR%\%SAVES_PARENT_DIR_NAME%
 
